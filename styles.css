@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    margin: 10px;
+}
+
+#reposList {
+    margin-top: 20px;
+}
+
+.repo {
+    margin-bottom: 10px;
+}
+ 
+.repo.max-issues {
+     color: red;
+}  
+
